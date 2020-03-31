@@ -15,8 +15,6 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
@@ -51,6 +49,13 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 
+
+--------
+
+Dataset
+--------
+
+Download the PAN 2011 plagiarism dataset from: https://zenodo.org/record/3250095#.XoPDZXVKgaw
 
 --------
 
